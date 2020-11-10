@@ -1,0 +1,9 @@
+﻿长	B-Sea	B-Sea
+山	I-Sea	I-Sea
+列	I-Sea	I-Sea
+岛	E-Sea	E-Sea
+见	S	S
+长	B-A	B-A
+海	I-A	I-A
+县	E-A	I-A
+

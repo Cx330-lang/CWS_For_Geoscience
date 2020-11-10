@@ -1,0 +1,8 @@
+﻿泊	B-A	B
+镇	E-A	E
+是	S	S
+见	S	S
+泊	B-A	B-A
+头	I-A	I-A
+市	E-A	I-A
+

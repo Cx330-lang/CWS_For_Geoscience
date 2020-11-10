@@ -1,0 +1,10 @@
+﻿龙	B-L	B-L
+首	I-L	I-L
+山	E-L	E-L
+是	S	S
+见	S	S
+走	B-L	B-L
+廊	I-L	I-L
+北	I-L	I-L
+山	E-L	I-L
+

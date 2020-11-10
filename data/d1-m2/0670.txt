@@ -1,0 +1,13 @@
+﻿里	B-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+是	S	S
+见	S	B-W
+邗	B-W	I-W
+沟	E-W	E-W
+、	S	S
+京	B-W	B-T
+杭	I-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+

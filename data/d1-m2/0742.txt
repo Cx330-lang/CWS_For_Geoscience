@@ -1,0 +1,11 @@
+﻿鲁	B-W	B-T
+北	I-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+是	S	S
+见	S	S
+京	B-W	B-T
+杭	I-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+

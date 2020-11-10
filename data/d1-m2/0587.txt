@@ -1,0 +1,11 @@
+﻿荆	B-W	B-W
+江	E-W	E-W
+分	B	B
+洪	E	E
+工	B	B
+程	E	E
+是	S	S
+见	S	B-W
+荆	B-W	I-W
+江	E-W	E-W
+

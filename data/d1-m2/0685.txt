@@ -1,0 +1,12 @@
+﻿辽	B-L	S
+东	I-L	S
+低	I-L	S
+山	I-L	S
+丘	I-L	B
+陵	E-L	E
+是	S	S
+见	S	S
+辽	B-A	B-A
+宁	I-A	I-A
+省	E-A	E-A
+

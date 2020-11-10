@@ -1,0 +1,11 @@
+﻿鸟	S	S
+岛	S	S
+自	B	B
+然	I	I
+保	I	I
+护	I	I
+区	E	E
+见	S	B-Sea
+鸟	B-W	I-Sea
+岛	E-W	E-Sea
+

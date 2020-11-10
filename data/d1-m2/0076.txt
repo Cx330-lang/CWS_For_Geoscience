@@ -1,0 +1,13 @@
+﻿北	B-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+是	S	S
+见	S	S
+京	B-W	B-T
+杭	I-W	I-T
+运	I-W	I-T
+河	E-W	E-T
+、	S	S
+海	B-W	B-W
+河	E-W	I-W
+

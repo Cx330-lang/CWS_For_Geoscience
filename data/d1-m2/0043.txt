@@ -1,0 +1,12 @@
+﻿白	B-A	S
+河	I-A	S
+自	I-A	B
+然	I-A	I
+保	I-A	I
+护	I-A	I
+区	E-A	E
+是	S	S
+见	S	S
+岷	B-L	B-L
+山	E-L	I-L
+

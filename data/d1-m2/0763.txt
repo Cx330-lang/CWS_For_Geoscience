@@ -1,0 +1,8 @@
+﻿骆	B-W	B-W
+马	I-W	I-W
+湖	E-W	E-W
+是	S	S
+见	S	S
+淮	B-W	B-W
+河	E-W	I-W
+

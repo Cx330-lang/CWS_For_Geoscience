@@ -1,0 +1,10 @@
+﻿黄	B-Sea	B-A
+海	E-Sea	E-A
+是	S	S
+见	S	S
+中	B-A	B-A
+国	E-A	E-A
+近	B	B
+海	E	E
+。	S	S
+

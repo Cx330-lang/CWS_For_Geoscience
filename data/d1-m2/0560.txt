@@ -1,0 +1,11 @@
+﻿蛟	B-W	B-W
+龙	I-W	I-W
+瀑	I-W	I-W
+布	E-W	E-W
+是	S	S
+见	S	B-L
+草	B-W	I-L
+岭	I-W	E-L
+旧	I-W	B-A
+潭	E-W	I-A
+

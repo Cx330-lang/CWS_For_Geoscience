@@ -1,0 +1,10 @@
+﻿白	B-L	B-L
+云	I-L	I-L
+峰	E-L	E-L
+是	S	S
+见	S	S
+长	B-L	B-L
+白	I-L	I-L
+山	I-L	I-L
+脉	E-L	E-L
+

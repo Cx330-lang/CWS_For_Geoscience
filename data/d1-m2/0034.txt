@@ -1,0 +1,9 @@
+﻿八	B-L	B-L
+达	I-L	I-L
+岭	E-L	E-L
+是	S	S
+见	S	S
+居	B-A	B-T
+庸	I-A	I-T
+关	E-A	E-T
+

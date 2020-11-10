@@ -1,0 +1,25 @@
+﻿昭	B	B
+君	E	E
+墓	S	S
+是	S	S
+位	B	B
+于	E	E
+内	B-A	B-A
+蒙	I-A	I-A
+古	I-A	I-A
+自	I-A	I-A
+治	I-A	I-A
+区	E-A	E-A
+呼	B-A	B-A
+和	I-A	I-A
+浩	I-A	I-A
+特	I-A	E-A
+旧	I-A	S
+城	E-A	S
+南	S	S
+郊	S	S
+大	B-W	B-W
+黑	I-W	I-W
+河	E-W	E-W
+。	S	S
+

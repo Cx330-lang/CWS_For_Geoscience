@@ -1,0 +1,8 @@
+﻿骑	B-L	B-L
+田	I-L	I-L
+岭	E-L	E-L
+是	S	S
+见	S	S
+南	B-L	B-L
+岭	E-L	I-L
+

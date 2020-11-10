@@ -1,0 +1,7 @@
+﻿贵	B-A	B-A
+县	E-A	E-A
+见	S	S
+贵	B-A	B-A
+港	I-A	I-A
+市	E-A	I-A
+

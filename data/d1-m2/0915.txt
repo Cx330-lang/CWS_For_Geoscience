@@ -1,0 +1,18 @@
+﻿鄱	B-L	B-L
+阳	I-L	I-L
+湖	I-L	I-L
+平	I-L	I-L
+原	E-L	E-L
+见	S	S
+长	B-L	B-L
+江	I-L	I-L
+中	I-L	I-L
+下	I-L	I-L
+游	I-L	I-L
+平	I-L	I-L
+原	E-L	E-L
+、	S	S
+江	B-A	B-A
+西	I-A	I-A
+省	E-A	E-A
+

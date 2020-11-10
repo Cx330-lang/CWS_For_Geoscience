@@ -1,0 +1,7 @@
+﻿北	B-W	B-W
+江	E-W	E-W
+是	S	S
+见	S	S
+珠	B-W	B-W
+江	E-W	I-W
+

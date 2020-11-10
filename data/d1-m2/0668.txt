@@ -1,0 +1,10 @@
+﻿离	B	B
+石	E	E
+黄	B	B
+土	E	E
+是	S	S
+见	S	S
+离	B-A	B-A
+石	I-A	I-A
+县	E-A	I-A
+

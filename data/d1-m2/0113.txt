@@ -1,0 +1,12 @@
+﻿长	B-W	B-L
+白	I-W	I-L
+山	I-W	E-L
+天	I-W	S
+池	E-W	B
+见	S	E
+白	B-W	B-A
+头	I-W	I-A
+山	I-W	I-A
+天	I-W	I-A
+池	E-W	I-A
+

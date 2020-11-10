@@ -1,0 +1,18 @@
+﻿子	B-W	B-W
+牙	I-W	I-W
+新	I-W	I-W
+河	E-W	E-W
+是	S	S
+人	B	B
+工	E	E
+河	B	B
+道	E	E
+。	S	S
+子	B-W	B-W
+牙	I-W	I-W
+新	I-W	I-W
+河	E-W	E-W
+见	S	S
+海	B-W	B-W
+河	E-W	E-W
+

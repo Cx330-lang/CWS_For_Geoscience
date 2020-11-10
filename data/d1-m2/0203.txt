@@ -1,0 +1,8 @@
+﻿大	B-A	B-W
+亚	I-A	I-W
+湾	E-A	E-W
+见	S	S
+惠	B-A	B-A
+阳	I-A	I-A
+县	E-A	I-A
+

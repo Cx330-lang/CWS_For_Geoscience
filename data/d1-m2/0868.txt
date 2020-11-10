@@ -1,0 +1,15 @@
+﻿念	B-L	B-L
+青	I-L	I-L
+唐	I-L	I-L
+古	I-L	I-L
+拉	I-L	I-L
+峰	E-L	E-L
+见	S	S
+念	B-L	B-L
+青	I-L	I-L
+唐	I-L	I-L
+古	I-L	I-L
+拉	I-L	I-L
+山	I-L	I-L
+脉	E-L	E-L
+

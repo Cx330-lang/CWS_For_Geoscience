@@ -1,0 +1,7 @@
+﻿岱	B-A	S
+庙	E-A	S
+见	S	S
+泰	B-A	B-A
+安	I-A	I-A
+市	E-A	I-A
+

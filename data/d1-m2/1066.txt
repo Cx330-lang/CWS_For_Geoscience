@@ -1,0 +1,9 @@
+﻿四	B-L	B-L
+明	I-L	I-L
+山	E-L	E-L
+是	S	S
+见	S	S
+余	B-A	B-A
+姚	I-A	I-A
+市	E-A	E-A
+

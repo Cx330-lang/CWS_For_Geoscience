@@ -1,0 +1,13 @@
+﻿鄱	B	B
+阳	I	E
+湖	E	S
+自	B	B
+然	I	I
+保	I	I
+护	I	I
+区	E	E
+见	S	S
+鄱	B-W	B-W
+阳	I-W	I-W
+湖	E-W	E-W
+

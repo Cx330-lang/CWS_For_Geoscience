@@ -1,0 +1,13 @@
+﻿广	B-L	B-L
+西	I-L	I-L
+盆	I-L	I-L
+地	E-L	E-L
+见	S	S
+广	B-A	B-A
+西	I-A	I-A
+壮	I-A	I-A
+族	I-A	I-A
+自	I-A	I-A
+治	I-A	I-A
+区	E-A	E-A
+

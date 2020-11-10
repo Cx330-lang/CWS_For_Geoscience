@@ -1,0 +1,8 @@
+﻿南	B-A	B
+口	E-A	E
+是	S	S
+见	S	S
+居	B-T	B-A
+庸	I-T	I-A
+关	E-T	E-A
+

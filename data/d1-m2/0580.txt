@@ -1,0 +1,8 @@
+﻿晋	S	S
+祠	S	S
+是	S	S
+见	S	S
+太	B-A	B-A
+原	I-A	I-A
+市	E-A	E-A
+

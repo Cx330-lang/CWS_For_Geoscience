@@ -1,0 +1,9 @@
+﻿金	B-Sea	B-Sea
+门	I-Sea	I-Sea
+岛	E-Sea	E-Sea
+是	S	S
+见	S	S
+金	B-A	B-A
+门	I-A	I-A
+县	E-A	I-A
+

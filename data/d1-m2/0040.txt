@@ -1,0 +1,19 @@
+﻿巴	B-A	B-A
+音	I-A	I-A
+布	I-A	I-A
+鲁	I-A	I-A
+克	I-A	I-A
+自	I-A	I-A
+然	I-A	I-A
+保	I-A	I-A
+护	I-A	I-A
+区	E-A	E-A
+是	S	S
+见	S	S
+尤	B-L	B-L
+勒	I-L	I-L
+都	I-L	I-L
+斯	I-L	I-L
+盆	I-L	I-L
+地	E-L	I-L
+

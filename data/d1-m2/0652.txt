@@ -1,0 +1,10 @@
+﻿朗	B-W	B-W
+钦	I-W	I-W
+藏	I-W	I-W
+布	E-W	E-W
+是	S	S
+见	B-W	B-W
+象	I-W	I-W
+泉	I-W	I-W
+河	E-W	E-W
+

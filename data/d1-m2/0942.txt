@@ -1,0 +1,10 @@
+﻿秦	B	S
+始	I	S
+皇	I	B
+陵	E	E
+是	S	S
+见	S	S
+临	B-A	B-A
+潼	I-A	I-A
+县	E-A	E-A
+

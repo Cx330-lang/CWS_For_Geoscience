@@ -1,0 +1,13 @@
+﻿河	S	S
+姆	S	S
+渡	S	S
+文	B	B
+化	E	E
+遗	B	B
+址	E	E
+是	S	S
+见	S	S
+余	B-A	B-A
+姚	I-A	I-A
+市	E-A	E-A
+

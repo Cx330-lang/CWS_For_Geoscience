@@ -1,0 +1,14 @@
+﻿喇	B	B
+叭	E	I
+河	S	E
+自	B	B
+然	I	I
+保	I	I
+护	I	I
+区	E	E
+是	S	S
+见	S	S
+邛	B-L	B-L
+崃	I-L	I-L
+山	E-L	I-L
+

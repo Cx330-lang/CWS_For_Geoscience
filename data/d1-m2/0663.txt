@@ -1,0 +1,14 @@
+﻿雷	B	S
+公	I	B
+山	E	E
+自	B	B
+然	I	I
+保	I	I
+护	I	I
+区	E	E
+是	S	S
+见	S	S
+雷	B-L	B-L
+公	I-L	I-L
+山	E-L	I-L
+

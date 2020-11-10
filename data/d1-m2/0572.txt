@@ -1,0 +1,8 @@
+﻿金	B-A	B-A
+县	E-A	E-A
+是	S	S
+见	S	B-A
+金	B-A	I-A
+州	I-A	I-A
+区	E-A	E-A
+

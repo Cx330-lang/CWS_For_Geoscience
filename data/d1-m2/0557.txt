@@ -1,0 +1,11 @@
+﻿胶	B-Sea	B-Sea
+东	I-Sea	I-Sea
+半	I-Sea	I-Sea
+岛	E-Sea	E-Sea
+是	S	S
+见	S	B-Sea
+山	B-Sea	I-Sea
+东	I-Sea	I-Sea
+半	I-Sea	I-Sea
+岛	E-Sea	I-Sea
+

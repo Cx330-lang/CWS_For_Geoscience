@@ -1,0 +1,9 @@
+﻿官	B	S
+厅	E	S
+水	B	B
+库	E	E
+见	S	S
+永	B-W	B-W
+定	I-W	I-W
+河	E-W	E-W
+

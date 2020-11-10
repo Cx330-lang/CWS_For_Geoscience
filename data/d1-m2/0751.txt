@@ -1,0 +1,9 @@
+﻿旅	B-A	B-A
+顺	E-A	E-A
+是	S	S
+见	S	S
+旅	B-A	B-A
+顺	I-A	I-A
+口	I-A	I-A
+区	E-A	I-A
+

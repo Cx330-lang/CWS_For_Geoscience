@@ -1,0 +1,8 @@
+﻿广	B-Sea	B-Sea
+州	I-Sea	I-Sea
+湾	E-Sea	E-Sea
+见	S	S
+湛	B-A	B-A
+江	I-A	I-A
+市	E-A	I-A
+
